@@ -1,0 +1,310 @@
+File not found - record\hidden 
+-------------------------------------------
+InSpect (c) Dr. Andrew M. Crawford, Ph.D
+crawf472@msu.edu
+DrCrawford.sci@gmail.com
+mccarten@umich.edu
+andrew.crawford@usask.ca
+InSpect is the front end GUI for running AutoSpec, RetroSpect, and ReSpect.  The main functionality, AutoSpec, automatically corrects spectral drift of LA-ICP-TOFMS spectroscopy followed by peak deconvolution.
+-------------------------------------------
+ 
+ 
+IMPORTANT:
+ 
+This Software End-User License Agreement is a binding agreement between you, the end-user, and the developer, Dr. Andrew M. Crawford and MSU (hereinafter referred to as "DEVELOPER") regarding the use of the software accompanying this Agreement, which includes all software (AutoSpec, InSpect, RetroSpect, ReSpect, and any other software contained in the AutoSpec suite of spectroscopy tools and provided documentation (hereinafter referred to collectively as "SOFTWARE"). By installing, copying, or otherwise using the SOFTWARE, you agree to be bound by the terms of this License Agreement.
+ 
+ 
+END USER LICENSE AGREEMENT
+ 
+THIS SOFTWARE IS THE PROPERTY OF DEVELOPERS, ALL RIGHTS RESERVED.
+ 
+UNDER NO CIRCUMSTANCES IS THIS SOFTWARE TO BE EXPOSED TO OR PLACED UNDER AN OPEN SOURCE LICENSE OF ANY TYPE WITHOUT THE EXPRESSED WRITTEN PERMISSION OF DEVELOPER
+ 
+ 
+1. OBJECT AND SCOPE OF THE AGREEMENT:
+ 
+DEVELOPER grants you a non-exclusive and non-transferable right to use the provided SOFTWARE:
+     •     to install all components of the SOFTWARE on a single device
+     •     to create backup copies of the SOFTWARE
+     •     to install and use the SOFTWARE
+ 
+ 
+2. UPDATE:
+ 
+In the event DEVELOPER provides any update to the SOFTWARE you may not use the earlier version(s) of the Software after 90 days of the provision of the applicable update. This article shall not be interpreted to impose any obligation on DEVELOPER to provide any update to the SOFTWARE.
+ 
+ 
+3. DISCLAIMER OF WARRANTIES:
+ 
+YOU AGREE THAT DEVELOPER HAS MADE NO EXPRESS WARRANTIES TO YOU REGARDING THE SOFTWARE AND THAT THE SOFTWARE IS BEING PROVIDED TO YOU "AS IS" WITHOUT WARRANTY OF ANY KIND.
+ 
+DEVELOPER DISCLAIMS ALL WARRANTIES WITH REGARD TO THE SOFTWARE, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, MERCHANTABLE QUALITY OR NONINFRINGEMENT OF THIRD PARTY RIGHTS.
+ 
+Some states or jurisdictions do not allow the exclusion of implied warranties so the above limitations or parts of it may not apply to you.
+ 
+ 
+4. LIMITATION OF LIABILITY:
+ 
+IN NO EVENT WILL DEVELOPER BE LIABLE TO YOU FOR ANY LOSS OF USE, INTERRUPTION OF BUSINESS, OR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY KIND (INCLUDING LOST PROFITS) REGARDLESS OF THE FORM OF ACTION WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT PRODUCT LIABILITY OR OTHERWISE, EVEN IF ENDUSER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+ 
+Some states or jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so the above limitation, exclusion or parts of it may not apply to you.
+ 
+ 
+5. USAGE:
+ 
+ANY SOFTWARE MADE AVAILABLE IN FORM OF THIS PACKAGE IS MADE AVAILABLE FOR USE BY END USERS ONLY AND ANY FURTHER MODIFICATION, REVERSE DEVELOPMENT, DECOMPILING, REPRODUCTION, OR REDISTRIBUTION OF THIS PACKAGE OR PARTS OF IT IS EXPRESSLY PROHIBITED. WE DO NOT WARRANT THAT THE FUNCTIONS CONTAINED WILL MEET YOUR REQUIREMENTS OR THAT THE OPERATION WILL BE UNINTERRUPTED OR ERROR FREE. THEY ARE NOT OPTIMISED IN TERMS OF SPEED OR SIZE. THE ENTIRE RISK AS TO THE RESULTS AND PERFORMANCE OF USE IS ASSUMED BY YOU.
+ 
+ 
+END OF TERMS AND CONDITIONS 
+-------------------------------------------
+InSpect (c) Dr. Andrew M. Crawford, Ph.D
+crawf472@msu.edu
+DrCrawford.sci@gmail.com
+mccarten@umich.edu
+andrew.crawford@usask.ca
+InSpect is the front end GUI for running AutoSpec, RetroSpect, and ReSpect.  The main functionality, AutoSpec, automatically corrects spectral drift of LA-ICP-TOFMS spectroscopy followed by peak deconvolution.
+-------------------------------------------
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+24-Jun-2026 20:57:24 - HIDING INSPECT AND LAUNCHING AUTOSPECT
+ 
+ 
+ 
+-------------------------------------------
+AutoSpec by Dr. Andrew M. Crawford, Ph.D
+crawf472@msu.edu
+DrCrawford.sci@gmail.com
+AutoSpec automatically corrects spectral drift of LA-ICP-TOFMS spectroscopy followed by peak deconvolution.
+-------------------------------------------
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+24-Jun-2026 21:01:36  AUTOSPEC PROCESSING OF DATASET
+                                                FILE: 251107_Spiked16_d1_2025.11.12-10h31m03s.h5
+                                                PATH: E:\Software\AutoSpect\testing\testing_ProSpect_2\
+24-Jun-2026 21:01:36  Loading file: 251107_Spiked16_d1_2025.11.12-10h31m03s.h5
+24-Jun-2026 21:01:37  Loading file: gathering image information
+24-Jun-2026 21:01:37  Loading file: gathering spectra information
+24-Jun-2026 21:01:37  Loading file: gathering global scalar information
+24-Jun-2026 21:01:38  Loading Complete: 251107_Spiked16_d1_2025.11.12-10h31m03s.h5
+24-Jun-2026 21:01:38  post load variable creation: 251107_Spiked16_d1_2025.11.12-10h31m03s.h5
+24-Jun-2026 21:01:38 - Partitioning and Averaging Spectra: 251107_Spiked16_d1_2025.11.12-10h31m03s.h5
+
+24-Jun-2026 21:01:38 - Sample: 
+
+24-Jun-2026 21:01:38 - 0%24-Jun-2026 21:01:38 - 10%  [ETA: 24-Jun-2026 21:01:46]24-Jun-2026 21:01:39 - 20%  [ETA: 24-Jun-2026 21:01:46]24-Jun-2026 21:01:41 - 30%  [ETA: 24-Jun-2026 21:01:50]24-Jun-2026 21:01:42 - 40%  [ETA: 24-Jun-2026 21:01:49]24-Jun-2026 21:01:43 - 50%  [ETA: 24-Jun-2026 21:01:49]24-Jun-2026 21:01:44 - 60%  [ETA: 24-Jun-2026 21:01:48]24-Jun-2026 21:01:45 - 70%  [ETA: 24-Jun-2026 21:01:48]24-Jun-2026 21:01:47 - 80%  [ETA: 24-Jun-2026 21:01:49]24-Jun-2026 21:01:47 - 90%  [ETA: 24-Jun-2026 21:01:48]24-Jun-2026 21:01:47 - 100%  [ETA: 24-Jun-2026 21:01:47]Warning: Negative data ignored
+> In labelcheck>local_validlabelobj (line 35)
+  In labelcheck (line 10)
+  In ylabel (line 20)
+  In calib_p2_initial_crude_optomization (line 119)
+  In AutoSpec_fcn (line 80)
+  In AutoSpec (line 94)
+  In InSpect>MENU_programs_launch_AutoSpec_Callback
+  In gui_mainfcn (line 95)
+  In InSpect (line 51)
+  In matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)InSpect('MENU_programs_launch_AutoSpec_Callback',hObject,eventdata,guidata(hObject))
+  In waitforallfiguresclosed (line 9)
+Warning: Negative data ignored
+> In campos (line 31)
+  In linkaxes>local_is2D (line 146)
+  In linkaxes (line 85)
+  In calib_p2_initial_crude_optomization (line 161)
+  In AutoSpec_fcn (line 80)
+  In AutoSpec (line 94)
+  In InSpect>MENU_programs_launch_AutoSpec_Callback
+  In gui_mainfcn (line 95)
+  In InSpect (line 51)
+  In matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)InSpect('MENU_programs_launch_AutoSpec_Callback',hObject,eventdata,guidata(hObject))
+  In waitforallfiguresclosed (line 9)
+24-Jun-2026 21:01:49 - Calculating Segmented Drift Corrections for 12 partitions
+                       Using: ASV_REOPTIMIZE_DRIFT_CORRECTION_V3
+                       Total Time Across Partitions: 0 hrs 13 min 12 sec
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 8 workers.
+24-Jun-2026 21:02:05 - 8%  [ETA: 24-Jun-2026 21:02:11]
+24-Jun-2026 21:02:05 - 17%  [ETA: 24-Jun-2026 21:02:11]
+24-Jun-2026 21:02:06 - 25%  [ETA: 24-Jun-2026 21:02:11]
+24-Jun-2026 21:02:06 - 33%  [ETA: 24-Jun-2026 21:02:11]
+24-Jun-2026 21:02:07 - 42%  [ETA: 24-Jun-2026 21:02:11]
+24-Jun-2026 21:02:08 - 50%  [ETA: 24-Jun-2026 21:02:11]
+24-Jun-2026 21:02:08 - 58%  [ETA: 24-Jun-2026 21:02:11]
+24-Jun-2026 21:02:09 - 67%  [ETA: 24-Jun-2026 21:02:11]
+24-Jun-2026 21:02:09 - 75%  [ETA: 24-Jun-2026 21:02:11]
+24-Jun-2026 21:02:09 - 83%  [ETA: 24-Jun-2026 21:02:10]
+24-Jun-2026 21:02:10 - 92%  [ETA: 24-Jun-2026 21:02:10]
+24-Jun-2026 21:02:10 - 100%  [ETA: 24-Jun-2026 21:02:10]
+Spectral Drift Correction: 0 hrs 0 min 8 sec
+24-Jun-2026 21:02:15 - Calculating Theoretical Drift Corrections for all data
+    Implementing interpolation (forced/hardset).
+             p1        p2         p3         r2   
+           ______    _______    _______    _______
+
+    old    4308.8    -9181.4    0.50001        NaN
+    new    4309.6    -9184.5    0.49998    0.99968
+
+    scan_time_s      p1        p2         p3       r2    converged     min       max      range 
+    ___________    ______    _______    _______    __    _________    ______    ______    ______
+
+     32            4309.8    -9184.6    0.49998    1     0            18.009    201.97    183.96
+    100            4309.8    -9184.6    0.49998    1     0            18.009    201.97    183.96
+    167            4309.8    -9184.7    0.49998    1     0            18.009    201.97    183.96
+    234            4309.8    -9184.8    0.49998    1     0            18.009    201.97    183.96
+    301            4309.8    -9184.9    0.49998    1     0            18.009    201.97    183.96
+    368            4309.8      -9185    0.49998    1     0            18.009    201.97    183.96
+    435            4309.8      -9185    0.49998    1     0            18.009    201.97    183.96
+    501            4309.8    -9184.7    0.49998    1     0            18.009    201.97    183.96
+    566            4309.8    -9184.7    0.49998    1     0            18.009    201.97    183.96
+    660            4309.8    -9184.5    0.49998    1     0            18.009    201.97    183.96
+    782            4309.7      -9184    0.49998    1     0            18.009    201.97    183.96
+    792            4309.4    -9182.3    0.49999    1     0            18.009    201.97    183.96
+
+24-Jun-2026 21:02:29 - Calculating Theoretical Drift Corrections for all data
+    Implementing interpolation (forced/hardset).
+Warning: Negative data ignored
+> In matlab.graphics.shape.internal.AxesLayoutManager/doUpdate
+  In matlab.graphics.internal.SubplotListenersManager>@(o,e)subplotlayout(ax,e,fig)
+  In cfInterrupt (line 20)
+  In cflsqcurvefit>iFittingInterrupt (line 67)
+  In callAllOptimOutputFcns (line 13)
+  In snls>callOutputAndPlotFcns (line 466)
+  In snls (line 216)
+  In lsqncommon (line 166)
+  In lsqcurvefit (line 257)
+  In lscftsh
+  In cflscftsh (line 7)
+  In cflsqcurvefit (line 47)
+  In fit>iNonLinearFit (line 1065)
+  In fit>iFit (line 333)
+  In fit (line 108)
+  In get_crude_centroids (line 37)
+  In show_driftcorrected_spectra_ALL (line 109)
+  In DC_post_recal (line 11)
+  In AutoSpec_fcn (line 165)
+  In AutoSpec (line 94)
+  In InSpect>MENU_programs_launch_AutoSpec_Callback
+  In gui_mainfcn (line 95)
+  In InSpect (line 51)
+  In matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)InSpect('MENU_programs_launch_AutoSpec_Callback',hObject,eventdata,guidata(hObject))
+  In waitforallfiguresclosed (line 9)
+24-Jun-2026 21:02:32 - Defining Peakshapes: Empirically Characterizing Main Peak Centroids from Isolated Peaks - 
+24-Jun-2026 21:02:47 - Defining Peakshapes: Peak Tails 251107_Spiked16_d1_2025.11.12-10h31m03s.h5
+User Modified Values for Tailing Accepted and implemented
+24-Jun-2026 21:14:23 - calculating INSTRUMENTAL NOTCHING
+IdleTimeout has been reached.
+Parallel pool using the 'local' profile is shutting down.
+    'MATLAB:class:InvalidHandle'
+    'Invalid or deleted object.'
+    ' '
+    'File: C:\Users\crawf472\AppData\Local\Temp\crawf472\mcrCache9.2\InSpec0\InSpect\account_for_instrumental_notching.m   in   account_for_instrumental_notching   at line   204'
+    ' '
+    'File: C:\Users\crawf472\AppData\Local\Temp\crawf472\mcrCache9.2\InSpec0\InSpect\AutoSpec_fcn.m   in   AutoSpec_fcn   at line   190'
+    ' '
+    'File: C:\Users\crawf472\AppData\Local\Temp\crawf472\mcrCache9.2\InSpec0\InSpect\AutoSpec.m   in   AutoSpec   at line   94'
+    ' '
+    'File: C:\Users\crawf472\AppData\Local\Temp\crawf472\mcrCache9.2\InSpec0\InSpect\InSpect.m   in   MENU_programs_launch_AutoSpec_Callback   at line   0'
+    ' '
+    'File: C:\Program Files\MATLAB\R2017a\mcr\toolbox\matlab\guide\gui_mainfcn.m   in   gui_mainfcn   at line   95'
+    ' '
+    'File: C:\Users\crawf472\AppData\Local\Temp\crawf472\mcrCache9.2\InSpec0\InSpect\InSpect.m   in   InSpect   at line   51'
+    ' '
+    'File: C:\Program Files\MATLAB\R2017a\mcr\toolbox\matlab\graphics\+matlab\+graphics\+internal\+figfile\@FigFile\read.m   in   @(hObject,eventdata)InSpect('MENU_programs_launch_AutoSpec_Callback',hObject,eventdata,guidata(hObject))   at line   0'
+
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+24-Jun-2026 21:33:29  AUTOSPEC PROCESSING OF DATASET
+                                                FILE: 251107_Spiked18_d2_2025.11.12-12h13m12s.h5
+                                                PATH: E:\Software\AutoSpect\testing\testing_ProSpect_2\
+24-Jun-2026 21:33:29  Loading file: 251107_Spiked18_d2_2025.11.12-12h13m12s.h5
+24-Jun-2026 21:33:29  Loading file: gathering image information
+24-Jun-2026 21:33:30  Loading file: gathering spectra information
+24-Jun-2026 21:33:30  Loading file: gathering global scalar information
+24-Jun-2026 21:33:30  Loading Complete: 251107_Spiked18_d2_2025.11.12-12h13m12s.h5
+24-Jun-2026 21:33:30  post load variable creation: 251107_Spiked18_d2_2025.11.12-12h13m12s.h5
+24-Jun-2026 21:33:30 - Partitioning and Averaging Spectra: 251107_Spiked18_d2_2025.11.12-12h13m12s.h5
+
+24-Jun-2026 21:33:30 - Sample: 
+
+24-Jun-2026 21:33:30 - 0%24-Jun-2026 21:33:31 - 10%  [ETA: 24-Jun-2026 21:33:38]24-Jun-2026 21:33:32 - 20%  [ETA: 24-Jun-2026 21:33:39]24-Jun-2026 21:33:33 - 30%  [ETA: 24-Jun-2026 21:33:39]24-Jun-2026 21:33:34 - 40%  [ETA: 24-Jun-2026 21:33:40]24-Jun-2026 21:33:35 - 50%  [ETA: 24-Jun-2026 21:33:40]24-Jun-2026 21:33:36 - 60%  [ETA: 24-Jun-2026 21:33:40]24-Jun-2026 21:33:37 - 70%  [ETA: 24-Jun-2026 21:33:40]24-Jun-2026 21:33:38 - 80%  [ETA: 24-Jun-2026 21:33:40]24-Jun-2026 21:33:39 - 90%  [ETA: 24-Jun-2026 21:33:39]24-Jun-2026 21:33:39 - 100%  [ETA: 24-Jun-2026 21:33:39]Warning: Negative data ignored
+> In labelcheck>local_validlabelobj (line 35)
+  In labelcheck (line 10)
+  In ylabel (line 20)
+  In calib_p2_initial_crude_optomization (line 119)
+  In AutoSpec_fcn (line 80)
+  In AutoSpec (line 94)
+  In InSpect>MENU_programs_launch_AutoSpec_Callback
+  In gui_mainfcn (line 95)
+  In InSpect (line 51)
+  In matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)InSpect('MENU_programs_launch_AutoSpec_Callback',hObject,eventdata,guidata(hObject))
+  In waitforallfiguresclosed (line 9)
+Warning: Negative data ignored
+> In campos (line 31)
+  In linkaxes>local_is2D (line 146)
+  In linkaxes (line 85)
+  In calib_p2_initial_crude_optomization (line 161)
+  In AutoSpec_fcn (line 80)
+  In AutoSpec (line 94)
+  In InSpect>MENU_programs_launch_AutoSpec_Callback
+  In gui_mainfcn (line 95)
+  In InSpect (line 51)
+  In matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)InSpect('MENU_programs_launch_AutoSpec_Callback',hObject,eventdata,guidata(hObject))
+  In waitforallfiguresclosed (line 9)
+24-Jun-2026 21:33:40 - Calculating Segmented Drift Corrections for 10 partitions
+                       Using: ASV_REOPTIMIZE_DRIFT_CORRECTION_V3
+                       Total Time Across Partitions: 0 hrs 10 min 5 sec
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 8 workers.
+24-Jun-2026 21:33:51 - 10%  [ETA: 24-Jun-2026 21:33:55]
+24-Jun-2026 21:33:51 - 20%  [ETA: 24-Jun-2026 21:33:55]
+24-Jun-2026 21:33:52 - 30%  [ETA: 24-Jun-2026 21:33:55]
+24-Jun-2026 21:33:52 - 40%  [ETA: 24-Jun-2026 21:33:55]
+24-Jun-2026 21:33:53 - 50%  [ETA: 24-Jun-2026 21:33:55]
+24-Jun-2026 21:33:53 - 60%  [ETA: 24-Jun-2026 21:33:56]
+Warning: A worker aborted during execution of the parfor loop. The parfor loop will now run again on the remaining workers.
+> In parallel_function
+  In get_crude_centroids_v2 (line 18)
+  In asv_reoptimize_drift_correction_v3>@(s)get_crude_centroids_v2(s,iL,iR,io_subtract_baseline,io_fit_to_lorentzian) (line 116)
+  In asv_reoptimize_drift_correction_v3 (line 140)
+  In AutoSpec_fcn (line 98)
+  In AutoSpec (line 94)
+  In InSpect>MENU_programs_launch_AutoSpec_Callback
+  In gui_mainfcn (line 95)
+  In InSpect (line 51)
+  In matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)InSpect('MENU_programs_launch_AutoSpec_Callback',hObject,eventdata,guidata(hObject))
+  In waitforallfiguresclosed (line 9)
+    'MATLAB:remoteparfor:AllParforWorkersAborted'
+    'All workers aborted during execution of the parfor loop.'
+    ' '
+    'File: C:\Program Files\MATLAB\R2017a\mcr\toolbox\matlab\lang\parallel_function.p   in   parallel_function   at line   0'
+    ' '
+    'File: C:\Users\crawf472\AppData\Local\Temp\crawf472\mcrCache9.2\InSpec0\InSpect\get_crude_centroids_v2.m   in   get_crude_centroids_v2   at line   18'
+    ' '
+    'File: C:\Users\crawf472\AppData\Local\Temp\crawf472\mcrCache9.2\InSpec0\InSpect\asv_reoptimize_drift_correction_v3.m   in   @(s)get_crude_centroids_v2(s,iL,iR,io_subtract_baseline,io_fit_to_lorentzian)   at line   116'
+    ' '
+    'File: C:\Users\crawf472\AppData\Local\Temp\crawf472\mcrCache9.2\InSpec0\InSpect\asv_reoptimize_drift_correction_v3.m   in   asv_reoptimize_drift_correction_v3   at line   140'
+    ' '
+    'File: C:\Users\crawf472\AppData\Local\Temp\crawf472\mcrCache9.2\InSpec0\InSpect\AutoSpec_fcn.m   in   AutoSpec_fcn   at line   98'
+    ' '
+    'File: C:\Users\crawf472\AppData\Local\Temp\crawf472\mcrCache9.2\InSpec0\InSpect\AutoSpec.m   in   AutoSpec   at line   94'
+    ' '
+    'File: C:\Users\crawf472\AppData\Local\Temp\crawf472\mcrCache9.2\InSpec0\InSpect\InSpect.m   in   MENU_programs_launch_AutoSpec_Callback   at line   0'
+    ' '
+    'File: C:\Program Files\MATLAB\R2017a\mcr\toolbox\matlab\guide\gui_mainfcn.m   in   gui_mainfcn   at line   95'
+    ' '
+    'File: C:\Users\crawf472\AppData\Local\Temp\crawf472\mcrCache9.2\InSpec0\InSpect\InSpect.m   in   InSpect   at line   51'
+    ' '
+    'File: C:\Program Files\MATLAB\R2017a\mcr\toolbox\matlab\graphics\+matlab\+graphics\+internal\+figfile\@FigFile\read.m   in   @(hObject,eventdata)InSpect('MENU_programs_launch_AutoSpec_Callback',hObject,eventdata,guidata(hObject))   at line   0'
+
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+24-Jun-2026 21:33:54  AUTOSPEC PROCESSING OF DATASET
+                                                FILE: 251107_Spiked20_d9_2025.11.13-11h39m31s.h5
+                                                PATH: E:\Software\AutoSpect\testing\testing_ProSpect_2\
+24-Jun-2026 21:33:54  Loading file: 251107_Spiked20_d9_2025.11.13-11h39m31s.h5
